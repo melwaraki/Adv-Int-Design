@@ -2,6 +2,10 @@ import grovepi.GrovePi;
 import grovepi.Pin;
 import grovepi.sensors.*;
 
+/**
+ This program creates an event then sends it to the server (placeholder).
+ **/
+
 class CreateEvent {
 
 	public static void main(String[] args) {
